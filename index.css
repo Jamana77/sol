@@ -117,11 +117,14 @@ nav .nav-list .nav-link:hover {
     display: none; /* Hidden on desktop by default */
     align-items: center;
     margin-right: auto; /* Align it to the left */
+    width:100px;
+/*     height:100px; */
 }
 
 .logo-head img {
-    width: 40px; /* Adjust the size as needed */
+    width: 100%; /* Adjust the size as needed */
     height: auto;
+/*     width: 40px; */
 }
 
 /* Media Queries */
